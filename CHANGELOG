@@ -1,3 +1,9 @@
+lxqt-session-2.4.0 / 2026-04-20
+===============================
+ * Separated X11 and Wayland settings.
+ * Don't include Qt modules directly.
+ * Updated translations.
+
 lxqt-session-2.3.0 / 2025-11-05
 ================================
  * Showed autostart applications in the correct category.
